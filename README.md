@@ -5,7 +5,7 @@
 
 <hr/>
 
-<img width="100%" src="https://github.com/wallaC-137/wallaC-137/blob/main/img/fullstack.png?raw=true" alt="my banner">
+<img width="100%" src="https://github.com/wallaC-137/wallaC-137/blob/main/img/fullstack-color.png?raw=true" alt="my banner">
 
 ## Um pouco sobre mim
 
