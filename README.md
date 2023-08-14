@@ -25,8 +25,6 @@ const data = {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaC-137&layout=compact&hide_border=true&title_color=D63A13&text_color=7B7D7D&bg_color=0d1117" />
 </div>
 
-<hr/>
-
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wallaC-137&bg_color=0d1117&color=D63A13&line=D63A13&point=7B7D7D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- <p align="center">
