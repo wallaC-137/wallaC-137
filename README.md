@@ -5,7 +5,7 @@
 
 <hr/>
 
-<img width="100%" src="https://github.com/wallaC-137/wallaC-137/blob/main/img/Captura%20de%20tela%20de%202023-02-24%2008-05-45.png?raw=true" alt="my banner">
+<img width="100%" src="https://github.com/wallaC-137/wallaC-137/blob/main/img/fullstack.png?raw=true" alt="my banner">
 
 ## Um pouco sobre mim
 
