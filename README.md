@@ -18,11 +18,12 @@ const data = {
 };
 ```
 
+
 <hr/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wallaC-137&show_icons=true&count_private=true&hide_border=true&title_color=D63A13&icon_color=D63A13&text_color=7B7D7D&bg_color=0d1117" alt="Wallace Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaC-137&layout=compact&hide_border=true&title_color=D63A13&text_color=7B7D7D&bg_color=0d1117" />
+  <img width=49% height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wallaC-137&show_icons=true&hide_border=true&title_color=D63A13&icon_color=D63A13&text_color=7B7D7D&bg_color=0d1117" alt="Wallace Ferreira github stats" />
+  <img width=41% height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallaC-137&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=D63A13&text_color=7B7D7D&bg_color=0d1117" />
 </div>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wallaC-137&bg_color=0d1117&color=D63A13&line=D63A13&point=7B7D7D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
